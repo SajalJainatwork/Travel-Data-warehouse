@@ -1,3 +1,5 @@
+<img width="2500" height="1600" alt="travel-the-world" src="https://github.com/user-attachments/assets/ae5cc27d-d1a8-4b13-9811-862be51de019" />
+
 # ✈️ Travel Data Warehouse Project
 
 A structured, cloud-based data warehouse pipeline that transforms messy travel-related CSV files into a clean, queryable format using AWS services and PostgreSQL/Redshift.
