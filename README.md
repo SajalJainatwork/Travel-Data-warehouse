@@ -1,3 +1,6 @@
+
+![we-seek-travel-1](https://github.com/user-attachments/assets/494413b2-ec3b-4cac-aeeb-a5c22b89d4ad)
+
 <img width="2500" height="1600" alt="travel-the-world" src="https://github.com/user-attachments/assets/ae5cc27d-d1a8-4b13-9811-862be51de019" />
 
 # ✈️ Travel Data Warehouse Project
